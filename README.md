@@ -1,1 +1,2 @@
-# Getting-started-with-Git-and-github-final-project
+theia@theia-ducan5596:/home/project$ curl -s https://api.github.com/repos/AnNguyenAI/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
